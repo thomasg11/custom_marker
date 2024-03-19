@@ -119,8 +119,8 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/google_maps_flutter/google_maps_flutter"
-      ref: "bugfix/#60083-maps-ios"
-      resolved-ref: a7c6b39704feaf2dc54e925aed81d7e7dc66743d
+      ref: master
+      resolved-ref: d454320e224422a5496b3c5fac4acd7adb05a9c2
       url: "https://github.com/vanlooverenkoen/plugins.git"
     source: git
     version: "2.1.1"
